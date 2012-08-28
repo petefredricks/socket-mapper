@@ -1,7 +1,7 @@
 {
 	"name": "socket-mapper",
 	"description": "This module is the connection between sockets and redis.",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	
 	"main": "index.js",
 	"private": true,
